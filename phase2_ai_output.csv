@@ -1,0 +1,5 @@
+student_id,student_name,class,subject,attendance_pct,internal_1,internal_2,assignment_delay,semester,risk_label,risk_encoded,ai_prediction,risk_reason
+S101,Rahul,AI-DS-A,Maths,82,65,58,1,3,Monitor,1,Monitor,Declining internal marks
+S102,Anitha,AI-DS-A,Maths,91,78,81,0,3,Safe,2,Safe,
+S103,Karthik,AI-DS-A,Maths,68,52,47,3,3,At Risk,0,At Risk,"Low attendance, Declining internal marks, Frequent assignment delays"
+S104,Priya,AI-DS-A,Maths,88,72,70,0,3,Safe,2,Safe,
